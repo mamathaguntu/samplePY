@@ -1,4 +1,2 @@
 # samplePY
-sample hello world python 
-
-test jenkins
+Python Basic examples 
